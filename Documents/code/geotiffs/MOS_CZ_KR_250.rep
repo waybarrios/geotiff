@@ -1,0 +1,22 @@
+ Image Format           :    GeoTIFF (No Compression)
+ Image Size             :    1912 Columns x 1188 Lines x 3 Bands
+ Image Type             :    8-bit
+
+ Georeference Units     : KRON        D211
+ Projection             : Krovak (negative)
+ Datum - Ellipsoid      : S-JTSK (Czechia) - Bessel 1841
+ Grid units             : METRE
+
+ Upper Left  Corner     :      -907000.000  E        -933000.000  N 
+ Upper Right Corner     :      -429000.000  E        -933000.000  N 
+ Image Centre           :      -668000.000  E       -1081500.000  N 
+ Lower Left  Corner     :      -907000.000  E       -1230000.000  N 
+ Lower Right Corner     :      -429000.000  E       -1230000.000  N 
+
+ Pixel Size             :          250.000  E            250.000  N 
+
+ Upper Left  Corner     :  11d53'57.97" E  Lon   50d50'24.00" N  Lat
+ Upper Right Corner     :  18d40'22.13" E  Lon   51d22'36.52" N  Lat
+ Image Centre           :  15d31'32.56" E  Lon   49d49'54.52" N  Lat
+ Lower Left  Corner     :  12d34'37.17" E  Lon   48d12'22.45" N  Lat
+ Lower Right Corner     :  18d59'48.63" E  Lon   48d42'54.36" N  Lat
